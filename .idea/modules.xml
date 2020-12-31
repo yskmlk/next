@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayType/ArrayType.iml" filepath="$PROJECT_DIR$/ArrayType/ArrayType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeGreetings/GradeGreetings.iml" filepath="$PROJECT_DIR$/GradeGreetings/GradeGreetings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFxApplication.iml" filepath="$PROJECT_DIR$/JavaFxApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patern/Patern.iml" filepath="$PROJECT_DIR$/Patern/Patern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/Practice.iml" filepath="$PROJECT_DIR$/practice/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomNums/RandomNums.iml" filepath="$PROJECT_DIR$/RandomNums/RandomNums.iml" />
+    </modules>
+  </component>
+</project>
